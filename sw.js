@@ -1,7 +1,7 @@
 /* Service Worker — Mein Plan MoGeRe Gold Mobil
    Cache-first: nach der Installation funktioniert die App komplett offline.
    Bei einer neuen Version: CACHE_VERSION erhöhen. */
-const CACHE_VERSION = "meinplan-mobil-v2";
+const CACHE_VERSION = "meinplan-mobil-v4";
 const ASSETS = [
   "./index.html",
   "./manifest.webmanifest",
